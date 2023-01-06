@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohil Visariya (@rohilv)
 - 👀 I’m interested in Frontend Development and Azure
-- 🌱 I’m currently learning Azure Application Development
+- 🌱 I’m currently learning Azure Cloud
 - 📫 Reach me out on rohilvisariya68@gmail.com 
 <!-- - 💞️ I’m looking to collaborate on -->
 
